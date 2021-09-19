@@ -28,6 +28,6 @@ Each player gets a symbol assigned to insert into the playing field.
 
 - Translations from German are taken from https://dict.cc
 
-### License
+## License
 
 [GNU GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
