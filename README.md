@@ -15,6 +15,7 @@ Tic Tac Toe as a web application
 - JavaScript: [Vue.js 2.6.14](https://vuejs.org/v2/guide/installation.html)
 - responsive design: [Foundation 6](https://get.foundation/)
 - Usage of the [OpenGraphProtocol](https://opengraphprotocol.org/) for making sharing links pretty.
+- [HTML5 Style Guides by W3Schools](https://www.w3schools.com/htmL/html5_syntax.asp)
 
 ### Gameplay specification
 
