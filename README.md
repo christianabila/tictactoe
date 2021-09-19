@@ -9,7 +9,7 @@ Tic Tac Toe as a web application
 
 ### Code base
 
-- PHP7: PSR conform
+- PHP7: [PSR](https://www.php-fig.org/psr/) conform
 - JavaScript: [Vue.js 2.6.14](https://vuejs.org/v2/guide/installation.html)
 - responsive design: [Foundation 6](https://get.foundation/) 
 
