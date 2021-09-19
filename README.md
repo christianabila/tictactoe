@@ -20,4 +20,6 @@ Tic Tac Toe as a web application
 
 Each player gets a symbol assigned to insert into the playing field.
 
-Translations from German are taken from https://dict.cc
+## Miscellaneous information
+
+- Translations from German are taken from https://dict.cc
