@@ -9,9 +9,9 @@ Tic Tac Toe as a web application
 
 ### Code base
 
-- PHP: PSR conform
-- JavaScript: Vue.js
-- responsive design: Foundation
+- PHP7: PSR conform
+- JavaScript: Vue.js 2.6.14 (https://vuejs.org/v2/guide/installation.html)
+- responsive design: Foundation 6 (https://get.foundation/) 
 
 ## Gameplay specification
 
